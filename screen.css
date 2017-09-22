@@ -250,8 +250,34 @@ body
     display: inline-block;
     font-size: 1.3em;
   }
+  
+  form 
+  {
+  max-width: 480px;
+  }
+  
   #submit_buttom
   {
-    padding-top:20px;
+    padding-top: 20px;
+  }	
+}
+
+@media screen and (min-width: 768px) 
+{
+  label
+  {
+    display: inline-block;
+    font-size: 1.3em;
+  }
+  
+  form 
+  {
+	max-width: 768px;
+  }
+  
+  #submit_button 
+  {
+	font-size: 1.35em;
+  padding-top: 20px;
   }
 }
