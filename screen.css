@@ -251,11 +251,6 @@ body
     font-size: 1.3em;
   }
   
-  form 
-  {
-  max-width: 480px;
-  }
-  
   #submit_buttom
   {
     padding-top: 20px;
@@ -267,12 +262,7 @@ body
   label
   {
     display: inline-block;
-    font-size: 1.3em;
-  }
-  
-  form 
-  {
-	max-width: 768px;
+    font-size: 1.35em;
   }
   
   #submit_button 
