@@ -236,6 +236,7 @@ fieldset {
 }
 
 body {
+  font-family: Cambria, "Times New Roman", serif;
   background-image: url("../pic/galaxypic.jpg");
   color: white;
 }
