@@ -221,15 +221,13 @@ textarea {
 }
 /* CSS starts here */
 
-h1 
-{
+h1 {
   font-size: 200%;
   text-align: center;
 	color: white;
 }
 
-fieldset 
-{
+fieldset {
   padding: 1em;
   margin: 0 auto;
   width: 15em;
@@ -237,36 +235,29 @@ fieldset
   text-align: center;
 }
 
-body 
-{
+body {
   background-image: url("pictures/galaxy.jpg");
   color: white;
 }
 
-@media screen and (min-width: 480px)
-{
-  label
-  {
+@media screen and (min-width: 480px){
+  label{
     display: inline-block;
     font-size: 1.3em;
   }
   
-  #submit_buttom
-  {
+  #submit_buttom{
     padding-top: 20px;
   }	
 }
 
-@media screen and (min-width: 768px) 
-{
-  label
-  {
+@media screen and (min-width: 768px) {
+  label{
     display: inline-block;
     font-size: 1.35em;
   }
   
-  #submit_button 
-  {
+  #submit_button {
 	font-size: 1.35em;
   padding-top: 20px;
   }
