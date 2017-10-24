@@ -242,6 +242,10 @@ body {
 }
 
 @media screen and (min-width: 480px){
+  body{
+    font-size: 1.2em;
+  }
+  
   label{
     display: inline-block;
     font-size: 1.3em;
@@ -249,10 +253,15 @@ body {
   
   #submit_buttom{
     padding-top: 20px;
+    font-size: 1.2em;
   }	
 }
 
 @media screen and (min-width: 768px) {
+  body{
+    font-size: 1.35em;
+  }
+  
   label{
     display: inline-block;
     font-size: 1.35em;
