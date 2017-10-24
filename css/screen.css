@@ -236,7 +236,7 @@ fieldset {
 }
 
 body {
-  background-image: url("pic/galaxypic.jpg");
+  background-image: url("../pic/galaxypic.jpg");
   color: white;
 }
 
