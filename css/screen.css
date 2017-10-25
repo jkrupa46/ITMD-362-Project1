@@ -222,7 +222,7 @@ textarea {
 /* CSS starts here */
 
 h1 {
-  font-size: 2.986em;
+  font-size: 2.986em;/**minor third*/
   text-align: center;
   color: white;
 }
@@ -240,7 +240,8 @@ body {
   background-image: url("../pic/galaxypic.jpg");
   color: white;
 }
-/**I used the modular scale of 1.2 or 5:6 or minor third. I start with 1em.*/
+/**I used the modular scale of 1.2 or 5:6 or minor third. I start with 1em.
+I used values such as 1.2 em an 1.44 em and 2.986em*/
 
 @media screen and (min-width: 480px){
   body{
